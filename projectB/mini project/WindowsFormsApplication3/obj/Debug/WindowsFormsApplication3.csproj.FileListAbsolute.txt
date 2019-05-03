@@ -1,0 +1,15 @@
+C:\Users\Track\Desktop\mini project\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe.config
+C:\Users\Track\Desktop\mini project\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe
+C:\Users\Track\Desktop\mini project\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.pdb
+C:\Users\Track\Desktop\mini project\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csprojResolveAssemblyReference.cache
+C:\Users\Track\Desktop\mini project\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.form1.resources
+C:\Users\Track\Desktop\mini project\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.mainpage.resources
+C:\Users\Track\Desktop\mini project\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.manage_clos.resources
+C:\Users\Track\Desktop\mini project\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.manage_rubrics.resources
+C:\Users\Track\Desktop\mini project\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Properties.Resources.resources
+C:\Users\Track\Desktop\mini project\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csproj.GenerateResource.Cache
+C:\Users\Track\Desktop\mini project\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.exe
+C:\Users\Track\Desktop\mini project\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.pdb
+C:\Users\Track\Desktop\dbmstask\mini project\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe.config
+C:\Users\Track\Desktop\dbmstask\mini project\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.exe
+C:\Users\Track\Desktop\dbmstask\mini project\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.pdb
